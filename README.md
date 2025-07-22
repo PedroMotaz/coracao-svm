@@ -2,5 +2,5 @@ Utilizei o dataset Heart Disease (Cleveland) e em base dos atributos ele prevê 
 
 resultado 
 
-<img src="curva-roc-svm.png" width="400" alt="curva roc svm"/>
+<img src="/coracao-svm/curva-roc-svm.png" width="400" alt="curva roc svm"/>
 
